@@ -32,7 +32,7 @@ Key Activities
 
 Technologies Used  
 
--**Python**: The Primary Programming language.  
--**VS-CODE**: IDE(code editor)  
+>-**Python**: The Primary Programming language.  
+>-**VS-CODE**: IDE(code editor)  
 
 
